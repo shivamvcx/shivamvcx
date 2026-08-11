@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/shivamvcx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/shiv_shivam_sl" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate aerospace aspirant building tools and rocketry kits to simplify model rocketry for beginners. I myself as a beginner knows every contains a beginner comes across.</h3>**
+ **<h3 align="left">🚀 Passionate aerospace aspirant building tools and rocketry kits to simplify model rocketry for beginners. I myself as a beginner knows every constraint a beginner comes across.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
