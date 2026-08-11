@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **A rocketry kit with avionics bay and ground station with a native software**
 - 🌱 I'm currently learning: **📚 C++ , Rust , SQL**
 - 💬 Ask me about: **💡 Aerospace, Model Rockets**
-- 📂 Portfolio: **<a href="[SL-OmniTrack](https://github.com/shivamvcx/SL-OmniTrack)" target="_blank">SL-OmniTrack</a>**
+- 📂 Portfolio: **<a href="https://github.com/shivamvcx/SL-OmniTrack" target="_blank">SL-OmniTrack</a>**
 
  **<h3 align="left">Skills</h3>**
 
